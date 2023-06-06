@@ -1,6 +1,6 @@
 # Hi, I am Jakub!
 
-I am Full Stack Web Developer and professional introvert from Czech Republic.
+I am Full Stack Web Developer from Czech Republic.
 
 ## About me
 
