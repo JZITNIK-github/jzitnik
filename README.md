@@ -1,6 +1,7 @@
 # Hi, I am Jakub!
 
 I am Full Stack Web Developer from Czech Republic.
+
 [![JZITNIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=JZITNIK-github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
