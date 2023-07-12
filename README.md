@@ -23,6 +23,6 @@ If you want to support me, give some of my repositories a star!
 
 Contact me on email: klindkubak@zohomail.eu
 
-Discord: KLIND#1906
+Discord: jzitnik
 
 Website [https://jzitnik.is-a.dev](https://jzitnik.is-a.dev)
