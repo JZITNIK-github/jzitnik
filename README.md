@@ -21,7 +21,7 @@ If you want to support me, give some of my repositories a star!
 
 ## Contact
 
-Contact me on email: klindkubak@zohomail.eu
+Contact me on email: email@jzitnik.is-a.dev
 
 Discord: jzitnik
 
