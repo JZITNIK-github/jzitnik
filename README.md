@@ -95,11 +95,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JZITNIK-github/JZITNIK-github/output/snake.svg" alt="Snake animation" />
 
 ###
 
