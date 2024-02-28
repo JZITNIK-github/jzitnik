@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 14 y.o. Full Stack Web Developer from Czech Republic</p>
+<p align="left">I'm Full Stack Web Developer from Czech Republic</p>
 
 More about me: [jzitnik.dev/about](https://jzitnik.dev/about)
 
