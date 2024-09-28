@@ -4,7 +4,7 @@
 
 <p align="left">I'm Full Stack Web Developer from Czech Republic</p>
 
-More about me: [jzitnik.dev/about](https://jzitnik.dev/about)
+More about me: [jzitnik.dev/en/about](https://jzitnik.dev/en/about)
 
 ###
 
